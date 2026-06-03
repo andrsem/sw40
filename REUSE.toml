@@ -1,0 +1,22 @@
+version = 1
+
+[[annotations]]
+path = [
+   "*/sw40-logo-gen-modified.png",
+   ".gitignore",
+   ".swift-format",
+   ".editorconfig",
+   ".github/**",
+   ".swiftpm/xcode/xcshareddata/**",
+   ".swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata",
+]
+SPDX-FileCopyrightText = "© 2025 Andrii Sem"
+SPDX-License-Identifier = "CC0-1.0"
+
+
+[[annotations]]
+path = [
+   "*/sw40-logo-gen-modified.png",
+]
+SPDX-FileCopyrightText = "No copyright claimed (AI-generated)"
+SPDX-License-Identifier = "CC0-1.0"
